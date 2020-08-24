@@ -13,9 +13,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//pesos/browser-history/issues/6) in [pesos/browser-history](https://github.com//pesos/browser-history)
-2. ❗️ Opened issue [#5](https://github.com//pesos/browser-history/issues/5) in [pesos/browser-history](https://github.com//pesos/browser-history)
-3. 🗣 Commented on [#1](https://github.com//Samyak2/browser-history/issues/1) in [Samyak2/browser-history](https://github.com//Samyak2/browser-history)
-4. ❗️ Opened issue [#3](https://github.com//Samyak2/browser-history/issues/3) in [Samyak2/browser-history](https://github.com//Samyak2/browser-history)
-5. ❗️ Opened issue [#2](https://github.com//Samyak2/browser-history/issues/2) in [Samyak2/browser-history](https://github.com//Samyak2/browser-history)
+1. 💪 Opened PR [#7](https://github.com//pesos/browser-history/pull/7) in [pesos/browser-history](https://github.com//pesos/browser-history)
+2. ❗️ Opened issue [#6](https://github.com//pesos/browser-history/issues/6) in [pesos/browser-history](https://github.com//pesos/browser-history)
+3. ❗️ Opened issue [#5](https://github.com//pesos/browser-history/issues/5) in [pesos/browser-history](https://github.com//pesos/browser-history)
+4. 🗣 Commented on [#1](https://github.com//Samyak2/browser-history/issues/1) in [Samyak2/browser-history](https://github.com//Samyak2/browser-history)
+5. ❗️ Opened issue [#3](https://github.com//Samyak2/browser-history/issues/3) in [Samyak2/browser-history](https://github.com//Samyak2/browser-history)
 <!--END_SECTION:activity-->
