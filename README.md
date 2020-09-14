@@ -14,8 +14,8 @@ Maybe take a look at some of my repositories?
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com//fonsp/PlutoUtils.jl/issues/11) in [fonsp/PlutoUtils.jl](https://github.com//fonsp/PlutoUtils.jl)
-2. 🎉 Merged PR [#15](https://github.com//pesos/browser-history/pull/15) in [pesos/browser-history](https://github.com//pesos/browser-history)
-3. ❗️ Closed issue [#8](https://github.com//pesos/browser-history/issues/8) in [pesos/browser-history](https://github.com//pesos/browser-history)
-4. 🗣 Commented on [#15](https://github.com//pesos/browser-history/issues/15) in [pesos/browser-history](https://github.com//pesos/browser-history)
-5. 💪 Opened PR [#16](https://github.com//pesos/browser-history/pull/16) in [pesos/browser-history](https://github.com//pesos/browser-history)
+2. 🗣 Commented on [#11](https://github.com//fonsp/PlutoUtils.jl/issues/11) in [fonsp/PlutoUtils.jl](https://github.com//fonsp/PlutoUtils.jl)
+3. 🎉 Merged PR [#15](https://github.com//pesos/browser-history/pull/15) in [pesos/browser-history](https://github.com//pesos/browser-history)
+4. ❗️ Closed issue [#8](https://github.com//pesos/browser-history/issues/8) in [pesos/browser-history](https://github.com//pesos/browser-history)
+5. 🗣 Commented on [#15](https://github.com//pesos/browser-history/issues/15) in [pesos/browser-history](https://github.com//pesos/browser-history)
 <!--END_SECTION:activity-->
