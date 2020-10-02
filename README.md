@@ -1,3 +1,5 @@
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyak2&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 I'm Samyak. Currently studying in the Computer Science department of PES University.
