@@ -18,6 +18,6 @@ Maybe take a look at some of my repositories?
 1. 🗣 Commented on [#54](https://github.com/pesos/grofer/issues/54) in [pesos/grofer](https://github.com/pesos/grofer)
 2. 🗣 Commented on [#54](https://github.com/pesos/grofer/issues/54) in [pesos/grofer](https://github.com/pesos/grofer)
 3. 🗣 Commented on [#54](https://github.com/pesos/grofer/issues/54) in [pesos/grofer](https://github.com/pesos/grofer)
-4. 🗣 Commented on [#67](https://github.com/pesos/browser-history/issues/67) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#65](https://github.com/pesos/browser-history/issues/65) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#54](https://github.com/pesos/grofer/issues/54) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 🗣 Commented on [#67](https://github.com/pesos/browser-history/issues/67) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
