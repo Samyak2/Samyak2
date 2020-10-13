@@ -15,9 +15,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/pesos/browser-history/pull/70) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#70](https://github.com/pesos/browser-history/issues/70) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🗣 Commented on [#69](https://github.com/pesos/browser-history/issues/69) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🗣 Commented on [#67](https://github.com/pesos/browser-history/issues/67) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#1352](https://github.com/FluxML/Flux.jl/issues/1352) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🎉 Merged PR [#70](https://github.com/pesos/browser-history/pull/70) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#70](https://github.com/pesos/browser-history/issues/70) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#69](https://github.com/pesos/browser-history/issues/69) in [pesos/browser-history](https://github.com/pesos/browser-history)
 5. 🗣 Commented on [#67](https://github.com/pesos/browser-history/issues/67) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
