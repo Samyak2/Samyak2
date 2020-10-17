@@ -15,9 +15,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/pesos/browser-history/issues/72) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#77](https://github.com/pesos/browser-history/issues/77) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🎉 Merged PR [#77](https://github.com/pesos/browser-history/pull/77) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🗣 Commented on [#77](https://github.com/pesos/browser-history/issues/77) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#80](https://github.com/pesos/grofer/issues/80) in [pesos/grofer](https://github.com/pesos/grofer)
+2. 🗣 Commented on [#72](https://github.com/pesos/browser-history/issues/72) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#77](https://github.com/pesos/browser-history/issues/77) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🎉 Merged PR [#77](https://github.com/pesos/browser-history/pull/77) in [pesos/browser-history](https://github.com/pesos/browser-history)
 5. 🗣 Commented on [#77](https://github.com/pesos/browser-history/issues/77) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
