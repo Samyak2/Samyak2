@@ -15,9 +15,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/varunp2k/WhatsappAutomation/pull/23) in [varunp2k/WhatsappAutomation](https://github.com/varunp2k/WhatsappAutomation)
-2. 🗣 Commented on [#55](https://github.com/pesos/browser-history/issues/55) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🎉 Merged PR [#88](https://github.com/pesos/browser-history/pull/88) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❗️ Closed issue [#84](https://github.com/pesos/browser-history/issues/84) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#23](https://github.com/varunp2k/WhatsappAutomation/issues/23) in [varunp2k/WhatsappAutomation](https://github.com/varunp2k/WhatsappAutomation)
+1. 🗣 Commented on [#72](https://github.com/pesos/browser-history/issues/72) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🎉 Merged PR [#23](https://github.com/varunp2k/WhatsappAutomation/pull/23) in [varunp2k/WhatsappAutomation](https://github.com/varunp2k/WhatsappAutomation)
+3. 🗣 Commented on [#55](https://github.com/pesos/browser-history/issues/55) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🎉 Merged PR [#88](https://github.com/pesos/browser-history/pull/88) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. ❗️ Closed issue [#84](https://github.com/pesos/browser-history/issues/84) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
