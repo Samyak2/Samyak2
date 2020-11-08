@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/pesos/pesos.github.io/issues/59) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
-2. 🎉 Merged PR [#89](https://github.com/pesos/browser-history/pull/89) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. ❗️ Closed issue [#62](https://github.com/pesos/browser-history/issues/62) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❗️ Opened issue [#59](https://github.com/pesos/pesos.github.io/issues/59) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
-5. 🗣 Commented on [#89](https://github.com/pesos/browser-history/issues/89) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#96](https://github.com/pesos/browser-history/issues/96) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🗣 Commented on [#59](https://github.com/pesos/pesos.github.io/issues/59) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
+3. 🎉 Merged PR [#89](https://github.com/pesos/browser-history/pull/89) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. ❗️ Closed issue [#62](https://github.com/pesos/browser-history/issues/62) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. ❗️ Opened issue [#59](https://github.com/pesos/pesos.github.io/issues/59) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
 <!--END_SECTION:activity-->
