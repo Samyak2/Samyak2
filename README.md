@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/pesos/browser-history/issues/55) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#55](https://github.com/pesos/browser-history/issues/55) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. ❗️ Opened issue [#104](https://github.com/pesos/browser-history/issues/104) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🗣 Commented on [#103](https://github.com/pesos/browser-history/issues/103) in [pesos/browser-history](https://github.com/pesos/browser-history)
 3. 🗣 Commented on [#55](https://github.com/pesos/browser-history/issues/55) in [pesos/browser-history](https://github.com/pesos/browser-history)
 4. 🗣 Commented on [#55](https://github.com/pesos/browser-history/issues/55) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. ❗️ Opened issue [#102](https://github.com/pesos/browser-history/issues/102) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🗣 Commented on [#55](https://github.com/pesos/browser-history/issues/55) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
