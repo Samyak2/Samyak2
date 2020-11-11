@@ -38,6 +38,6 @@ Maybe take a look at some of my repositories?
 1. 🗣 Commented on [#103](https://github.com/pesos/browser-history/issues/103) in [pesos/browser-history](https://github.com/pesos/browser-history)
 2. 🗣 Commented on [#103](https://github.com/pesos/browser-history/issues/103) in [pesos/browser-history](https://github.com/pesos/browser-history)
 3. 🗣 Commented on [#103](https://github.com/pesos/browser-history/issues/103) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❗️ Opened issue [#105](https://github.com/pesos/browser-history/issues/105) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#103](https://github.com/pesos/browser-history/issues/103) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#103](https://github.com/pesos/browser-history/issues/103) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. ❗️ Opened issue [#105](https://github.com/pesos/browser-history/issues/105) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
