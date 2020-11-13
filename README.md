@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#106](https://github.com/pesos/browser-history/pull/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#106](https://github.com/pesos/browser-history/issues/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. ❌ Closed PR [#101](https://github.com/pesos/browser-history/pull/101) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🗣 Commented on [#101](https://github.com/pesos/browser-history/issues/101) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. ❌ Closed PR [#100](https://github.com/pesos/browser-history/pull/100) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#4654](https://github.com/PyTorchLightning/pytorch-lightning/pull/4654) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+2. ❌ Closed PR [#106](https://github.com/pesos/browser-history/pull/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#106](https://github.com/pesos/browser-history/issues/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. ❌ Closed PR [#101](https://github.com/pesos/browser-history/pull/101) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🗣 Commented on [#101](https://github.com/pesos/browser-history/issues/101) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
