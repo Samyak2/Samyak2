@@ -37,8 +37,8 @@ Maybe take a look at some of my repositories?
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4654](https://github.com/PyTorchLightning/pytorch-lightning/issues/4654) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
-2. 💪 Opened PR [#4654](https://github.com/PyTorchLightning/pytorch-lightning/pull/4654) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
-3. ❌ Closed PR [#106](https://github.com/pesos/browser-history/pull/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🗣 Commented on [#106](https://github.com/pesos/browser-history/issues/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. ❌ Closed PR [#101](https://github.com/pesos/browser-history/pull/101) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🗣 Commented on [#4654](https://github.com/PyTorchLightning/pytorch-lightning/issues/4654) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+3. 💪 Opened PR [#4654](https://github.com/PyTorchLightning/pytorch-lightning/pull/4654) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+4. ❌ Closed PR [#106](https://github.com/pesos/browser-history/pull/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🗣 Commented on [#106](https://github.com/pesos/browser-history/issues/106) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
