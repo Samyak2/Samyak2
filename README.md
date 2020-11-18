@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/pesos/members-list/issues/217) in [pesos/members-list](https://github.com/pesos/members-list)
-2. 🎉 Merged PR [#219](https://github.com/pesos/members-list/pull/219) in [pesos/members-list](https://github.com/pesos/members-list)
-3. 🎉 Merged PR [#221](https://github.com/pesos/members-list/pull/221) in [pesos/members-list](https://github.com/pesos/members-list)
-4. 🗣 Commented on [#4654](https://github.com/PyTorchLightning/pytorch-lightning/issues/4654) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
-5. 🗣 Commented on [#4654](https://github.com/PyTorchLightning/pytorch-lightning/issues/4654) in [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+1. 🗣 Commented on [#97](https://github.com/pesos/browser-history/issues/97) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. ❗️ Closed issue [#97](https://github.com/pesos/browser-history/issues/97) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#217](https://github.com/pesos/members-list/issues/217) in [pesos/members-list](https://github.com/pesos/members-list)
+4. 🎉 Merged PR [#219](https://github.com/pesos/members-list/pull/219) in [pesos/members-list](https://github.com/pesos/members-list)
+5. 🎉 Merged PR [#221](https://github.com/pesos/members-list/pull/221) in [pesos/members-list](https://github.com/pesos/members-list)
 <!--END_SECTION:activity-->
