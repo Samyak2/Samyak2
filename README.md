@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/pesos/browser-history/issues/107) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🎉 Merged PR [#108](https://github.com/pesos/browser-history/pull/108) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. ❗️ Closed issue [#104](https://github.com/pesos/browser-history/issues/104) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❗️ Opened issue [#111](https://github.com/pesos/browser-history/issues/111) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. ❗️ Opened issue [#110](https://github.com/pesos/browser-history/issues/110) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🎉 Merged PR [#112](https://github.com/pesos/browser-history/pull/112) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. ❗️ Closed issue [#42](https://github.com/pesos/browser-history/issues/42) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#107](https://github.com/pesos/browser-history/issues/107) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🎉 Merged PR [#108](https://github.com/pesos/browser-history/pull/108) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. ❗️ Closed issue [#104](https://github.com/pesos/browser-history/issues/104) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
