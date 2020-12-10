@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/pesos/browser-history/pull/113) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#111](https://github.com/pesos/browser-history/issues/111) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🗣 Commented on [#62](https://github.com/fannheyward/coc-julia/issues/62) in [fannheyward/coc-julia](https://github.com/fannheyward/coc-julia)
-4. 🗣 Commented on [#62](https://github.com/fannheyward/coc-julia/issues/62) in [fannheyward/coc-julia](https://github.com/fannheyward/coc-julia)
-5. 🎉 Merged PR [#112](https://github.com/pesos/browser-history/pull/112) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#62](https://github.com/fannheyward/coc-julia/issues/62) in [fannheyward/coc-julia](https://github.com/fannheyward/coc-julia)
+2. ❗️ Closed issue [#110](https://github.com/pesos/browser-history/issues/110) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#110](https://github.com/pesos/browser-history/issues/110) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🎉 Merged PR [#113](https://github.com/pesos/browser-history/pull/113) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🗣 Commented on [#111](https://github.com/pesos/browser-history/issues/111) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
