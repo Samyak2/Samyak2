@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/rehanvipin/andromeda/issues/5) in [rehanvipin/andromeda](https://github.com/rehanvipin/andromeda)
-2. 🗣 Commented on [#114](https://github.com/pesos/browser-history/issues/114) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🗣 Commented on [#62](https://github.com/fannheyward/coc-julia/issues/62) in [fannheyward/coc-julia](https://github.com/fannheyward/coc-julia)
-4. ❗️ Closed issue [#110](https://github.com/pesos/browser-history/issues/110) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#110](https://github.com/pesos/browser-history/issues/110) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#2](https://github.com/psiayn/DownloadClenser/pull/2) in [psiayn/DownloadClenser](https://github.com/psiayn/DownloadClenser)
+2. ❗️ Opened issue [#5](https://github.com/rehanvipin/andromeda/issues/5) in [rehanvipin/andromeda](https://github.com/rehanvipin/andromeda)
+3. 🗣 Commented on [#114](https://github.com/pesos/browser-history/issues/114) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#62](https://github.com/fannheyward/coc-julia/issues/62) in [fannheyward/coc-julia](https://github.com/fannheyward/coc-julia)
+5. ❗️ Closed issue [#110](https://github.com/pesos/browser-history/issues/110) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
