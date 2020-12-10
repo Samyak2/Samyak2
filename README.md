@@ -30,8 +30,7 @@ Maybe take a look at some of my repositories?
 <br/>
 
 ### :zap: My GitHub stats
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyak2&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Samyak2&title=MultiLanguage,Commit,Issues,PullRequest,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyak2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :zap: Recent Activity
 
