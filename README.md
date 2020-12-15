@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/HackerSpace-PESU/deep-frost/issues/12) in [HackerSpace-PESU/deep-frost](https://github.com/HackerSpace-PESU/deep-frost)
-2. 🗣 Commented on [#10](https://github.com/anirudhRowjee/atlas/issues/10) in [anirudhRowjee/atlas](https://github.com/anirudhRowjee/atlas)
-3. 🗣 Commented on [#9](https://github.com/anirudhRowjee/atlas/issues/9) in [anirudhRowjee/atlas](https://github.com/anirudhRowjee/atlas)
-4. ❗️ Opened issue [#12](https://github.com/HackerSpace-PESU/deep-frost/issues/12) in [HackerSpace-PESU/deep-frost](https://github.com/HackerSpace-PESU/deep-frost)
-5. 🗣 Commented on [#118](https://github.com/pesos/browser-history/issues/118) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#63](https://github.com/pesos/pesos.github.io/pull/63) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
+2. ❗️ Opened issue [#62](https://github.com/pesos/pesos.github.io/issues/62) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
+3. 🗣 Commented on [#12](https://github.com/HackerSpace-PESU/deep-frost/issues/12) in [HackerSpace-PESU/deep-frost](https://github.com/HackerSpace-PESU/deep-frost)
+4. 🗣 Commented on [#10](https://github.com/anirudhRowjee/atlas/issues/10) in [anirudhRowjee/atlas](https://github.com/anirudhRowjee/atlas)
+5. 🗣 Commented on [#9](https://github.com/anirudhRowjee/atlas/issues/9) in [anirudhRowjee/atlas](https://github.com/anirudhRowjee/atlas)
 <!--END_SECTION:activity-->
