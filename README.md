@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#69](https://github.com/pesos/pesos.github.io/issues/69) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
-2. 💪 Opened PR [#63](https://github.com/pesos/pesos.github.io/pull/63) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
-3. ❗️ Opened issue [#62](https://github.com/pesos/pesos.github.io/issues/62) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
-4. 🗣 Commented on [#12](https://github.com/HackerSpace-PESU/deep-frost/issues/12) in [HackerSpace-PESU/deep-frost](https://github.com/HackerSpace-PESU/deep-frost)
-5. 🗣 Commented on [#10](https://github.com/anirudhRowjee/atlas/issues/10) in [anirudhRowjee/atlas](https://github.com/anirudhRowjee/atlas)
+1. 🎉 Merged PR [#232](https://github.com/pesos/members-list/pull/232) in [pesos/members-list](https://github.com/pesos/members-list)
+2. ❗️ Opened issue [#69](https://github.com/pesos/pesos.github.io/issues/69) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
+3. 💪 Opened PR [#63](https://github.com/pesos/pesos.github.io/pull/63) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
+4. ❗️ Opened issue [#62](https://github.com/pesos/pesos.github.io/issues/62) in [pesos/pesos.github.io](https://github.com/pesos/pesos.github.io)
+5. 🗣 Commented on [#12](https://github.com/HackerSpace-PESU/deep-frost/issues/12) in [HackerSpace-PESU/deep-frost](https://github.com/HackerSpace-PESU/deep-frost)
 <!--END_SECTION:activity-->
