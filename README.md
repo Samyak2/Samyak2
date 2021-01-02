@@ -37,7 +37,7 @@ Maybe take a look at some of my repositories?
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#86](https://github.com/pesos/grofer/issues/86) in [pesos/grofer](https://github.com/pesos/grofer)
 2. 🗣 Commented on [#86](https://github.com/pesos/grofer/issues/86) in [pesos/grofer](https://github.com/pesos/grofer)
-3. ❗️ Opened issue [#1](https://github.com/pesos/heiko/issues/1) in [pesos/heiko](https://github.com/pesos/heiko)
-4. 🎉 Merged PR [#121](https://github.com/pesos/browser-history/pull/121) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. ❗️ Closed issue [#120](https://github.com/pesos/browser-history/issues/120) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#86](https://github.com/pesos/grofer/issues/86) in [pesos/grofer](https://github.com/pesos/grofer)
+4. ❗️ Opened issue [#1](https://github.com/pesos/heiko/issues/1) in [pesos/heiko](https://github.com/pesos/heiko)
+5. 🎉 Merged PR [#121](https://github.com/pesos/browser-history/pull/121) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
