@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/pesos/heiko/issues/1) in [pesos/heiko](https://github.com/pesos/heiko)
-2. 🗣 Commented on [#1](https://github.com/pesos/heiko/issues/1) in [pesos/heiko](https://github.com/pesos/heiko)
-3. 🗣 Commented on [#12](https://github.com/HackerSpace-PESU/deep-frost/issues/12) in [HackerSpace-PESU/deep-frost](https://github.com/HackerSpace-PESU/deep-frost)
-4. 🗣 Commented on [#109](https://github.com/pesos/browser-history/issues/109) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🎉 Merged PR [#109](https://github.com/pesos/browser-history/pull/109) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#1](https://github.com/Lyro1/BrowserHistoryAnalyser/pull/1) in [Lyro1/BrowserHistoryAnalyser](https://github.com/Lyro1/BrowserHistoryAnalyser)
+2. ❗️ Closed issue [#1](https://github.com/pesos/heiko/issues/1) in [pesos/heiko](https://github.com/pesos/heiko)
+3. 🗣 Commented on [#1](https://github.com/pesos/heiko/issues/1) in [pesos/heiko](https://github.com/pesos/heiko)
+4. 🗣 Commented on [#12](https://github.com/HackerSpace-PESU/deep-frost/issues/12) in [HackerSpace-PESU/deep-frost](https://github.com/HackerSpace-PESU/deep-frost)
+5. 🗣 Commented on [#109](https://github.com/pesos/browser-history/issues/109) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
