@@ -38,6 +38,6 @@ Maybe take a look at some of my repositories?
 1. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
 2. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
 3. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 💪 Opened PR [#7](https://github.com/LucasLaibly/Intrusion/pull/7) in [LucasLaibly/Intrusion](https://github.com/LucasLaibly/Intrusion)
-5. 💪 Opened PR [#1](https://github.com/Lyro1/BrowserHistoryAnalyser/pull/1) in [Lyro1/BrowserHistoryAnalyser](https://github.com/Lyro1/BrowserHistoryAnalyser)
+4. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
