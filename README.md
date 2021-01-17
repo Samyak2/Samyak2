@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/MadhavJivrajani/halp/issues/1) in [MadhavJivrajani/halp](https://github.com/MadhavJivrajani/halp)
-2. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🎉 Merged PR [#244](https://github.com/pesos/members-list/pull/244) in [pesos/members-list](https://github.com/pesos/members-list)
-4. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#1](https://github.com/MadhavJivrajani/halp/issues/1) in [MadhavJivrajani/halp](https://github.com/MadhavJivrajani/halp)
+2. ❗️ Opened issue [#1](https://github.com/MadhavJivrajani/halp/issues/1) in [MadhavJivrajani/halp](https://github.com/MadhavJivrajani/halp)
+3. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🎉 Merged PR [#244](https://github.com/pesos/members-list/pull/244) in [pesos/members-list](https://github.com/pesos/members-list)
 5. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
