@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/pesos/browser-history/issues/124) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. ❗️ Opened issue [#124](https://github.com/pesos/browser-history/issues/124) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#5](https://github.com/MadhavJivrajani/halp/pull/5) in [MadhavJivrajani/halp](https://github.com/MadhavJivrajani/halp)
+2. 💪 Opened PR [#4](https://github.com/MadhavJivrajani/halp/pull/4) in [MadhavJivrajani/halp](https://github.com/MadhavJivrajani/halp)
+3. 🗣 Commented on [#124](https://github.com/pesos/browser-history/issues/124) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. ❗️ Opened issue [#124](https://github.com/pesos/browser-history/issues/124) in [pesos/browser-history](https://github.com/pesos/browser-history)
 5. 🗣 Commented on [#123](https://github.com/pesos/browser-history/issues/123) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
