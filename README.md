@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/pesos/heiko/issues/7) in [pesos/heiko](https://github.com/pesos/heiko)
-2. 🗣 Commented on [#13](https://github.com/MadhavJivrajani/simDFA/issues/13) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
-3. 💪 Opened PR [#13](https://github.com/MadhavJivrajani/simDFA/pull/13) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
-4. 🗣 Commented on [#122](https://github.com/pesos/browser-history/issues/122) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#14](https://github.com/MadhavJivrajani/simDFA/pull/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
+2. 🗣 Commented on [#7](https://github.com/pesos/heiko/issues/7) in [pesos/heiko](https://github.com/pesos/heiko)
+3. 🗣 Commented on [#13](https://github.com/MadhavJivrajani/simDFA/issues/13) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
+4. 💪 Opened PR [#13](https://github.com/MadhavJivrajani/simDFA/pull/13) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
 5. 🗣 Commented on [#122](https://github.com/pesos/browser-history/issues/122) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
