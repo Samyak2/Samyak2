@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/MadhavJivrajani/simDFA/issues/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
-2. 💪 Opened PR [#14](https://github.com/MadhavJivrajani/simDFA/pull/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
-3. 🗣 Commented on [#7](https://github.com/pesos/heiko/issues/7) in [pesos/heiko](https://github.com/pesos/heiko)
-4. 🗣 Commented on [#13](https://github.com/MadhavJivrajani/simDFA/issues/13) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
-5. 💪 Opened PR [#13](https://github.com/MadhavJivrajani/simDFA/pull/13) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
+1. ❗️ Opened issue [#13](https://github.com/aditeyabaral/NLPC/issues/13) in [aditeyabaral/NLPC](https://github.com/aditeyabaral/NLPC)
+2. 🗣 Commented on [#14](https://github.com/MadhavJivrajani/simDFA/issues/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
+3. 💪 Opened PR [#14](https://github.com/MadhavJivrajani/simDFA/pull/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
+4. 🗣 Commented on [#7](https://github.com/pesos/heiko/issues/7) in [pesos/heiko](https://github.com/pesos/heiko)
+5. 🗣 Commented on [#13](https://github.com/MadhavJivrajani/simDFA/issues/13) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
 <!--END_SECTION:activity-->
