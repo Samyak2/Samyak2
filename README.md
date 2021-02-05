@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/pesos/heiko/pull/9) in [pesos/heiko](https://github.com/pesos/heiko)
-2. ❗️ Closed issue [#7](https://github.com/pesos/heiko/issues/7) in [pesos/heiko](https://github.com/pesos/heiko)
-3. ❗️ Opened issue [#13](https://github.com/aditeyabaral/NLPC/issues/13) in [aditeyabaral/NLPC](https://github.com/aditeyabaral/NLPC)
-4. 🗣 Commented on [#14](https://github.com/MadhavJivrajani/simDFA/issues/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
-5. 💪 Opened PR [#14](https://github.com/MadhavJivrajani/simDFA/pull/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
+1. 🗣 Commented on [#128](https://github.com/pesos/browser-history/issues/128) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🎉 Merged PR [#9](https://github.com/pesos/heiko/pull/9) in [pesos/heiko](https://github.com/pesos/heiko)
+3. ❗️ Closed issue [#7](https://github.com/pesos/heiko/issues/7) in [pesos/heiko](https://github.com/pesos/heiko)
+4. ❗️ Opened issue [#13](https://github.com/aditeyabaral/NLPC/issues/13) in [aditeyabaral/NLPC](https://github.com/aditeyabaral/NLPC)
+5. 🗣 Commented on [#14](https://github.com/MadhavJivrajani/simDFA/issues/14) in [MadhavJivrajani/simDFA](https://github.com/MadhavJivrajani/simDFA)
 <!--END_SECTION:activity-->
