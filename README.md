@@ -39,5 +39,5 @@ Maybe take a look at some of my repositories?
 2. 🗣 Commented on [#132](https://github.com/pesos/browser-history/issues/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
 3. 🗣 Commented on [#132](https://github.com/pesos/browser-history/issues/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
 4. 🗣 Commented on [#132](https://github.com/pesos/browser-history/issues/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🎉 Merged PR [#266](https://github.com/pesos/members-list/pull/266) in [pesos/members-list](https://github.com/pesos/members-list)
+5. 🗣 Commented on [#132](https://github.com/pesos/browser-history/issues/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
