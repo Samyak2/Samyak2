@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#269](https://github.com/pesos/members-list/pull/269) in [pesos/members-list](https://github.com/pesos/members-list)
-2. 🗣 Commented on [#459](https://github.com/Kethku/neovide/issues/459) in [Kethku/neovide](https://github.com/Kethku/neovide)
-3. 🎉 Merged PR [#132](https://github.com/pesos/browser-history/pull/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🎉 Merged PR [#268](https://github.com/pesos/members-list/pull/268) in [pesos/members-list](https://github.com/pesos/members-list)
-5. 🗣 Commented on [#132](https://github.com/pesos/browser-history/issues/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#10](https://github.com/pesos/heiko/issues/10) in [pesos/heiko](https://github.com/pesos/heiko)
+2. 🎉 Merged PR [#269](https://github.com/pesos/members-list/pull/269) in [pesos/members-list](https://github.com/pesos/members-list)
+3. 🗣 Commented on [#459](https://github.com/Kethku/neovide/issues/459) in [Kethku/neovide](https://github.com/Kethku/neovide)
+4. 🎉 Merged PR [#132](https://github.com/pesos/browser-history/pull/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🎉 Merged PR [#268](https://github.com/pesos/members-list/pull/268) in [pesos/members-list](https://github.com/pesos/members-list)
 <!--END_SECTION:activity-->
