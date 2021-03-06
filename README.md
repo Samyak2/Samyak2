@@ -37,7 +37,7 @@ Maybe take a look at some of my repositories?
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/pesos/heiko/issues/10) in [pesos/heiko](https://github.com/pesos/heiko)
 2. 🗣 Commented on [#10](https://github.com/pesos/heiko/issues/10) in [pesos/heiko](https://github.com/pesos/heiko)
-3. 🎉 Merged PR [#269](https://github.com/pesos/members-list/pull/269) in [pesos/members-list](https://github.com/pesos/members-list)
-4. 🗣 Commented on [#459](https://github.com/Kethku/neovide/issues/459) in [Kethku/neovide](https://github.com/Kethku/neovide)
-5. 🎉 Merged PR [#132](https://github.com/pesos/browser-history/pull/132) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#10](https://github.com/pesos/heiko/issues/10) in [pesos/heiko](https://github.com/pesos/heiko)
+4. 🎉 Merged PR [#269](https://github.com/pesos/members-list/pull/269) in [pesos/members-list](https://github.com/pesos/members-list)
+5. 🗣 Commented on [#459](https://github.com/Kethku/neovide/issues/459) in [Kethku/neovide](https://github.com/Kethku/neovide)
 <!--END_SECTION:activity-->
