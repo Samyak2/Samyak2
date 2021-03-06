@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/pesos/heiko/issues/12) in [pesos/heiko](https://github.com/pesos/heiko)
-2. 💪 Opened PR [#13](https://github.com/pesos/heiko/pull/13) in [pesos/heiko](https://github.com/pesos/heiko)
-3. 🗣 Commented on [#12](https://github.com/pesos/heiko/issues/12) in [pesos/heiko](https://github.com/pesos/heiko)
-4. 🗣 Commented on [#11](https://github.com/pesos/heiko/issues/11) in [pesos/heiko](https://github.com/pesos/heiko)
-5. 🗣 Commented on [#10](https://github.com/pesos/heiko/issues/10) in [pesos/heiko](https://github.com/pesos/heiko)
+1. 🎉 Merged PR [#130](https://github.com/pesos/browser-history/pull/130) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🗣 Commented on [#12](https://github.com/pesos/heiko/issues/12) in [pesos/heiko](https://github.com/pesos/heiko)
+3. 💪 Opened PR [#13](https://github.com/pesos/heiko/pull/13) in [pesos/heiko](https://github.com/pesos/heiko)
+4. 🗣 Commented on [#12](https://github.com/pesos/heiko/issues/12) in [pesos/heiko](https://github.com/pesos/heiko)
+5. 🗣 Commented on [#11](https://github.com/pesos/heiko/issues/11) in [pesos/heiko](https://github.com/pesos/heiko)
 <!--END_SECTION:activity-->
