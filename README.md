@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/pesos/heiko/issues/11) in [pesos/heiko](https://github.com/pesos/heiko)
-2. 🗣 Commented on [#124](https://github.com/pesos/browser-history/issues/124) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🗣 Commented on [#11](https://github.com/pesos/heiko/issues/11) in [pesos/heiko](https://github.com/pesos/heiko)
-4. 💪 Opened PR [#136](https://github.com/pesos/browser-history/pull/136) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🎉 Merged PR [#134](https://github.com/pesos/browser-history/pull/134) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#124](https://github.com/pesos/browser-history/issues/124) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🗣 Commented on [#11](https://github.com/pesos/heiko/issues/11) in [pesos/heiko](https://github.com/pesos/heiko)
+3. 🗣 Commented on [#124](https://github.com/pesos/browser-history/issues/124) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#11](https://github.com/pesos/heiko/issues/11) in [pesos/heiko](https://github.com/pesos/heiko)
+5. 💪 Opened PR [#136](https://github.com/pesos/browser-history/pull/136) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
