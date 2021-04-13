@@ -38,6 +38,6 @@ Maybe take a look at some of my repositories?
 1. 🗣 Commented on [#139](https://github.com/pesos/browser-history/issues/139) in [pesos/browser-history](https://github.com/pesos/browser-history)
 2. 🗣 Commented on [#139](https://github.com/pesos/browser-history/issues/139) in [pesos/browser-history](https://github.com/pesos/browser-history)
 3. 🗣 Commented on [#139](https://github.com/pesos/browser-history/issues/139) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 💪 Opened PR [#7693](https://github.com/dgraph-io/dgraph/pull/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
-5. 🎉 Merged PR [#137](https://github.com/pesos/browser-history/pull/137) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#139](https://github.com/pesos/browser-history/issues/139) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 💪 Opened PR [#7693](https://github.com/dgraph-io/dgraph/pull/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
 <!--END_SECTION:activity-->
