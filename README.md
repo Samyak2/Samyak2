@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
+1. 🗣 Commented on [#101](https://github.com/pesos/grofer/issues/101) in [pesos/grofer](https://github.com/pesos/grofer)
 2. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
 3. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
 4. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
-5. 🗣 Commented on [#139](https://github.com/pesos/browser-history/issues/139) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
 <!--END_SECTION:activity-->
