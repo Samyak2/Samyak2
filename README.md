@@ -35,9 +35,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/pesos/grofer/issues/114) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
 2. 🗣 Commented on [#114](https://github.com/pesos/grofer/issues/114) in [pesos/grofer](https://github.com/pesos/grofer)
-3. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
-4. 💪 Opened PR [#106](https://github.com/pesos/grofer/pull/106) in [pesos/grofer](https://github.com/pesos/grofer)
-5. 🗣 Commented on [#101](https://github.com/pesos/grofer/issues/101) in [pesos/grofer](https://github.com/pesos/grofer)
+3. 🗣 Commented on [#114](https://github.com/pesos/grofer/issues/114) in [pesos/grofer](https://github.com/pesos/grofer)
+4. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 💪 Opened PR [#106](https://github.com/pesos/grofer/pull/106) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
