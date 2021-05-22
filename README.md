@@ -35,7 +35,7 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 🗣 Commented on [#393](https://github.com/kyazdani42/nvim-tree.lua/issues/393) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
 2. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
 3. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
 4. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
