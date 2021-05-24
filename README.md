@@ -39,5 +39,5 @@ Maybe take a look at some of my repositories?
 2. 🗣 Commented on [#117](https://github.com/pesos/grofer/issues/117) in [pesos/grofer](https://github.com/pesos/grofer)
 3. 🗣 Commented on [#117](https://github.com/pesos/grofer/issues/117) in [pesos/grofer](https://github.com/pesos/grofer)
 4. 🗣 Commented on [#117](https://github.com/pesos/grofer/issues/117) in [pesos/grofer](https://github.com/pesos/grofer)
-5. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 🗣 Commented on [#117](https://github.com/pesos/grofer/issues/117) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
