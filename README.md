@@ -37,7 +37,7 @@ Maybe take a look at some of my repositories?
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#117](https://github.com/pesos/grofer/issues/117) in [pesos/grofer](https://github.com/pesos/grofer)
 2. 🗣 Commented on [#117](https://github.com/pesos/grofer/issues/117) in [pesos/grofer](https://github.com/pesos/grofer)
-3. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
-4. 🗣 Commented on [#1](https://github.com/psiayn/heiko/issues/1) in [psiayn/heiko](https://github.com/psiayn/heiko)
-5. 🗣 Commented on [#148](https://github.com/pesos/browser-history/issues/148) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#117](https://github.com/pesos/grofer/issues/117) in [pesos/grofer](https://github.com/pesos/grofer)
+4. 🗣 Commented on [#106](https://github.com/pesos/grofer/issues/106) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 🗣 Commented on [#1](https://github.com/psiayn/heiko/issues/1) in [psiayn/heiko](https://github.com/psiayn/heiko)
 <!--END_SECTION:activity-->
