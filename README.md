@@ -4,7 +4,7 @@
 
 I'm Samyak. Currently studying in the Computer Science department of PES University.
 
-Interested in Deep Learning, Cloud Computing, Game dev and anything that is fun and/or interesting.
+Interested in Systems, Cloud, Deep Learning and anything that is fun and/or interesting!
 
 Maybe take a look at some of my repositories?
 
@@ -15,6 +15,7 @@ Maybe take a look at some of my repositories?
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 <img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png" />
+<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
