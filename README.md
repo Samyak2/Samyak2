@@ -38,7 +38,7 @@ Maybe take a look at some of my repositories?
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#389](https://github.com/kyazdani42/nvim-tree.lua/issues/389) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
 2. 🗣 Commented on [#389](https://github.com/kyazdani42/nvim-tree.lua/issues/389) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
-3. 🎉 Merged PR [#277](https://github.com/pesos/members-list/pull/277) in [pesos/members-list](https://github.com/pesos/members-list)
+3. 🗣 Commented on [#389](https://github.com/kyazdani42/nvim-tree.lua/issues/389) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
 4. 🗣 Commented on [#389](https://github.com/kyazdani42/nvim-tree.lua/issues/389) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
-5. 🗣 Commented on [#389](https://github.com/kyazdani42/nvim-tree.lua/issues/389) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
+5. 🎉 Merged PR [#277](https://github.com/pesos/members-list/pull/277) in [pesos/members-list](https://github.com/pesos/members-list)
 <!--END_SECTION:activity-->
