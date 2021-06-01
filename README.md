@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/pesos/grofer/issues/112) in [pesos/grofer](https://github.com/pesos/grofer)
-2. 🗣 Commented on [#389](https://github.com/kyazdani42/nvim-tree.lua/issues/389) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
-3. 🎉 Merged PR [#149](https://github.com/pesos/browser-history/pull/149) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🗣 Commented on [#149](https://github.com/pesos/browser-history/issues/149) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#3](https://github.com/psiayn/heiko/issues/3) in [psiayn/heiko](https://github.com/psiayn/heiko)
+2. 🗣 Commented on [#112](https://github.com/pesos/grofer/issues/112) in [pesos/grofer](https://github.com/pesos/grofer)
+3. 🗣 Commented on [#389](https://github.com/kyazdani42/nvim-tree.lua/issues/389) in [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)
+4. 🎉 Merged PR [#149](https://github.com/pesos/browser-history/pull/149) in [pesos/browser-history](https://github.com/pesos/browser-history)
 5. 🗣 Commented on [#149](https://github.com/pesos/browser-history/issues/149) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
