@@ -37,8 +37,8 @@ Maybe take a look at some of my repositories?
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/psiayn/heiko/issues/3) in [psiayn/heiko](https://github.com/psiayn/heiko)
-2. 💪 Opened PR [#4](https://github.com/psiayn/heiko/pull/4) in [psiayn/heiko](https://github.com/psiayn/heiko)
-3. 🗣 Commented on [#3](https://github.com/psiayn/heiko/issues/3) in [psiayn/heiko](https://github.com/psiayn/heiko)
+2. 🗣 Commented on [#3](https://github.com/psiayn/heiko/issues/3) in [psiayn/heiko](https://github.com/psiayn/heiko)
+3. 💪 Opened PR [#4](https://github.com/psiayn/heiko/pull/4) in [psiayn/heiko](https://github.com/psiayn/heiko)
 4. 🗣 Commented on [#3](https://github.com/psiayn/heiko/issues/3) in [psiayn/heiko](https://github.com/psiayn/heiko)
-5. 🗣 Commented on [#112](https://github.com/pesos/grofer/issues/112) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 🗣 Commented on [#3](https://github.com/psiayn/heiko/issues/3) in [psiayn/heiko](https://github.com/psiayn/heiko)
 <!--END_SECTION:activity-->
