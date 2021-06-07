@@ -37,8 +37,8 @@ Maybe take a look at some of my repositories?
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#127](https://github.com/pesos/browser-history/issues/127) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
+2. 🗣 Commented on [#127](https://github.com/pesos/browser-history/issues/127) in [pesos/browser-history](https://github.com/pesos/browser-history)
 3. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
 4. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
-5. 🎉 Merged PR [#5](https://github.com/psiayn/heiko/pull/5) in [psiayn/heiko](https://github.com/psiayn/heiko)
+5. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
