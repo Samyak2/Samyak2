@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 🗣 Commented on [#151](https://github.com/pesos/browser-history/issues/151) in [pesos/browser-history](https://github.com/pesos/browser-history)
 2. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
-3. 🗣 Commented on [#142](https://github.com/pesos/browser-history/issues/142) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🗣 Commented on [#127](https://github.com/pesos/browser-history/issues/127) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
+4. 🗣 Commented on [#142](https://github.com/pesos/browser-history/issues/142) in [pesos/browser-history](https://github.com/pesos/browser-history)
 5. 🗣 Commented on [#127](https://github.com/pesos/browser-history/issues/127) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
