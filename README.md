@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/unifoss/unifoss.github.io/pull/1) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
-2. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
-3. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 💪 Opened PR [#2](https://github.com/unifoss/unifoss.github.io/pull/2) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
+2. 💪 Opened PR [#1](https://github.com/unifoss/unifoss.github.io/pull/1) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
+3. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
 4. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
 5. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
