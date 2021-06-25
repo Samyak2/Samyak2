@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/unifoss/unifoss.github.io/issues/3) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
-2. 🗣 Commented on [#1](https://github.com/unifoss/unifoss.github.io/issues/1) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
-3. 💪 Opened PR [#2](https://github.com/unifoss/unifoss.github.io/pull/2) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
-4. 💪 Opened PR [#1](https://github.com/unifoss/unifoss.github.io/pull/1) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
-5. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
+2. 🗣 Commented on [#3](https://github.com/unifoss/unifoss.github.io/issues/3) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
+3. 🗣 Commented on [#1](https://github.com/unifoss/unifoss.github.io/issues/1) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
+4. 💪 Opened PR [#2](https://github.com/unifoss/unifoss.github.io/pull/2) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
+5. 💪 Opened PR [#1](https://github.com/unifoss/unifoss.github.io/pull/1) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
 <!--END_SECTION:activity-->
