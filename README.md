@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/unifoss/unifoss.github.io/pull/4) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
-2. 🗣 Commented on [#2](https://github.com/divan/gotrace/issues/2) in [divan/gotrace](https://github.com/divan/gotrace)
-3. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
-4. 🗣 Commented on [#3](https://github.com/unifoss/unifoss.github.io/issues/3) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
-5. 🗣 Commented on [#1](https://github.com/unifoss/unifoss.github.io/issues/1) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
+1. ❗️ Opened issue [#1439](https://github.com/nvim-treesitter/nvim-treesitter/issues/1439) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. 💪 Opened PR [#4](https://github.com/unifoss/unifoss.github.io/pull/4) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
+3. 🗣 Commented on [#2](https://github.com/divan/gotrace/issues/2) in [divan/gotrace](https://github.com/divan/gotrace)
+4. 🗣 Commented on [#7693](https://github.com/dgraph-io/dgraph/issues/7693) in [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph)
+5. 🗣 Commented on [#3](https://github.com/unifoss/unifoss.github.io/issues/3) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
 <!--END_SECTION:activity-->
