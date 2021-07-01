@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 🗣 Commented on [#4](https://github.com/unifoss/unifoss.github.io/issues/4) in [unifoss/unifoss.github.io](https://github.com/unifoss/unifoss.github.io)
 2. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
 3. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
 4. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
-5. 💪 Opened PR [#1453](https://github.com/nvim-treesitter/nvim-treesitter/pull/1453) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+5. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
