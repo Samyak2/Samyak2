@@ -39,6 +39,6 @@ Maybe take a look at some of my repositories?
 1. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
 2. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
 3. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
-4. 💪 Opened PR [#1453](https://github.com/nvim-treesitter/nvim-treesitter/pull/1453) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-5. 🗣 Commented on [#1439](https://github.com/nvim-treesitter/nvim-treesitter/issues/1439) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. 🗣 Commented on [#121](https://github.com/pesos/grofer/issues/121) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 💪 Opened PR [#1453](https://github.com/nvim-treesitter/nvim-treesitter/pull/1453) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 <!--END_SECTION:activity-->
