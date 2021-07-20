@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
-2. ❗️ Opened issue [#8](https://github.com/psiayn/heiko/issues/8) in [psiayn/heiko](https://github.com/psiayn/heiko)
-3. ❗️ Opened issue [#7](https://github.com/psiayn/heiko/issues/7) in [psiayn/heiko](https://github.com/psiayn/heiko)
-4. 🎉 Merged PR [#4](https://github.com/psiayn/heiko/pull/4) in [psiayn/heiko](https://github.com/psiayn/heiko)
-5. ❗️ Closed issue [#1](https://github.com/psiayn/heiko/issues/1) in [psiayn/heiko](https://github.com/psiayn/heiko)
+1. 🎉 Merged PR [#154](https://github.com/pesos/browser-history/pull/154) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
+3. ❗️ Opened issue [#8](https://github.com/psiayn/heiko/issues/8) in [psiayn/heiko](https://github.com/psiayn/heiko)
+4. ❗️ Opened issue [#7](https://github.com/psiayn/heiko/issues/7) in [psiayn/heiko](https://github.com/psiayn/heiko)
+5. 🎉 Merged PR [#4](https://github.com/psiayn/heiko/pull/4) in [psiayn/heiko](https://github.com/psiayn/heiko)
 <!--END_SECTION:activity-->
