@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/pesos/browser-history/pull/154) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#124](https://github.com/pesos/grofer/issues/124) in [pesos/grofer](https://github.com/pesos/grofer)
-3. ❗️ Opened issue [#8](https://github.com/psiayn/heiko/issues/8) in [psiayn/heiko](https://github.com/psiayn/heiko)
-4. ❗️ Opened issue [#7](https://github.com/psiayn/heiko/issues/7) in [psiayn/heiko](https://github.com/psiayn/heiko)
-5. 🎉 Merged PR [#4](https://github.com/psiayn/heiko/pull/4) in [psiayn/heiko](https://github.com/psiayn/heiko)
+1. 🎉 Merged PR [#1](https://github.com/orange-life/ursula-api/pull/1) in [orange-life/ursula-api](https://github.com/orange-life/ursula-api)
+2. 🎉 Merged PR [#1](https://github.com/orange-life/the-graph/pull/1) in [orange-life/the-graph](https://github.com/orange-life/the-graph)
+3. 🎉 Merged PR [#17](https://github.com/orange-life/client/pull/17) in [orange-life/client](https://github.com/orange-life/client)
+4. 🎉 Merged PR [#1](https://github.com/orange-life/smart-contracts/pull/1) in [orange-life/smart-contracts](https://github.com/orange-life/smart-contracts)
+5. 💪 Opened PR [#2](https://github.com/orange-life/landing/pull/2) in [orange-life/landing](https://github.com/orange-life/landing)
 <!--END_SECTION:activity-->
