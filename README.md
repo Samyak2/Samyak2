@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/pesos/grofer/pull/129) in [pesos/grofer](https://github.com/pesos/grofer)
-2. ❗️ Opened issue [#28](https://github.com/mr-karan/doggo/issues/28) in [mr-karan/doggo](https://github.com/mr-karan/doggo)
-3. 🎉 Merged PR [#1](https://github.com/orange-life/ursula-api/pull/1) in [orange-life/ursula-api](https://github.com/orange-life/ursula-api)
-4. 🎉 Merged PR [#1](https://github.com/orange-life/the-graph/pull/1) in [orange-life/the-graph](https://github.com/orange-life/the-graph)
-5. 🎉 Merged PR [#17](https://github.com/orange-life/client/pull/17) in [orange-life/client](https://github.com/orange-life/client)
+1. 💪 Opened PR [#108](https://github.com/langjam/jam0001/pull/108) in [langjam/jam0001](https://github.com/langjam/jam0001)
+2. 🎉 Merged PR [#129](https://github.com/pesos/grofer/pull/129) in [pesos/grofer](https://github.com/pesos/grofer)
+3. ❗️ Opened issue [#28](https://github.com/mr-karan/doggo/issues/28) in [mr-karan/doggo](https://github.com/mr-karan/doggo)
+4. 🎉 Merged PR [#1](https://github.com/orange-life/ursula-api/pull/1) in [orange-life/ursula-api](https://github.com/orange-life/ursula-api)
+5. 🎉 Merged PR [#1](https://github.com/orange-life/the-graph/pull/1) in [orange-life/the-graph](https://github.com/orange-life/the-graph)
 <!--END_SECTION:activity-->
