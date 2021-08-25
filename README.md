@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#177](https://github.com/langjam/jam0001/pull/177) in [langjam/jam0001](https://github.com/langjam/jam0001)
-2. 🗣 Commented on [#132](https://github.com/pesos/grofer/issues/132) in [pesos/grofer](https://github.com/pesos/grofer)
-3. 💪 Opened PR [#108](https://github.com/langjam/jam0001/pull/108) in [langjam/jam0001](https://github.com/langjam/jam0001)
-4. 🎉 Merged PR [#129](https://github.com/pesos/grofer/pull/129) in [pesos/grofer](https://github.com/pesos/grofer)
-5. ❗️ Opened issue [#28](https://github.com/mr-karan/doggo/issues/28) in [mr-karan/doggo](https://github.com/mr-karan/doggo)
+1. 🎉 Merged PR [#133](https://github.com/pesos/grofer/pull/133) in [pesos/grofer](https://github.com/pesos/grofer)
+2. 💪 Opened PR [#177](https://github.com/langjam/jam0001/pull/177) in [langjam/jam0001](https://github.com/langjam/jam0001)
+3. 🗣 Commented on [#132](https://github.com/pesos/grofer/issues/132) in [pesos/grofer](https://github.com/pesos/grofer)
+4. 💪 Opened PR [#108](https://github.com/langjam/jam0001/pull/108) in [langjam/jam0001](https://github.com/langjam/jam0001)
+5. 🎉 Merged PR [#129](https://github.com/pesos/grofer/pull/129) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
