@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/savq/melange/issues/21) in [savq/melange](https://github.com/savq/melange)
-2. ❗️ Opened issue [#21](https://github.com/savq/melange/issues/21) in [savq/melange](https://github.com/savq/melange)
-3. 🎉 Merged PR [#130](https://github.com/pesos/grofer/pull/130) in [pesos/grofer](https://github.com/pesos/grofer)
-4. 🎉 Merged PR [#133](https://github.com/pesos/grofer/pull/133) in [pesos/grofer](https://github.com/pesos/grofer)
-5. 💪 Opened PR [#177](https://github.com/langjam/jam0001/pull/177) in [langjam/jam0001](https://github.com/langjam/jam0001)
+1. ❗️ Opened issue [#9](https://github.com/psiayn/heiko/issues/9) in [psiayn/heiko](https://github.com/psiayn/heiko)
+2. 🗣 Commented on [#21](https://github.com/savq/melange/issues/21) in [savq/melange](https://github.com/savq/melange)
+3. ❗️ Opened issue [#21](https://github.com/savq/melange/issues/21) in [savq/melange](https://github.com/savq/melange)
+4. 🎉 Merged PR [#130](https://github.com/pesos/grofer/pull/130) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 🎉 Merged PR [#133](https://github.com/pesos/grofer/pull/133) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
