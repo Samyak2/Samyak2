@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 💪 Opened PR [#137](https://github.com/pesos/grofer/pull/137) in [pesos/grofer](https://github.com/pesos/grofer)
 2. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
-3. 🗣 Commented on [#9](https://github.com/psiayn/heiko/issues/9) in [psiayn/heiko](https://github.com/psiayn/heiko)
-4. ❗️ Opened issue [#9](https://github.com/psiayn/heiko/issues/9) in [psiayn/heiko](https://github.com/psiayn/heiko)
-5. 🗣 Commented on [#21](https://github.com/savq/melange/issues/21) in [savq/melange](https://github.com/savq/melange)
+3. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
+4. 🗣 Commented on [#9](https://github.com/psiayn/heiko/issues/9) in [psiayn/heiko](https://github.com/psiayn/heiko)
+5. ❗️ Opened issue [#9](https://github.com/psiayn/heiko/issues/9) in [psiayn/heiko](https://github.com/psiayn/heiko)
 <!--END_SECTION:activity-->
