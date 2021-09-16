@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#137](https://github.com/pesos/grofer/pull/137) in [pesos/grofer](https://github.com/pesos/grofer)
-2. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
-3. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
-4. 🗣 Commented on [#9](https://github.com/psiayn/heiko/issues/9) in [psiayn/heiko](https://github.com/psiayn/heiko)
-5. ❗️ Opened issue [#9](https://github.com/psiayn/heiko/issues/9) in [psiayn/heiko](https://github.com/psiayn/heiko)
+1. 🎉 Merged PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+2. 💪 Opened PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+3. 💪 Opened PR [#137](https://github.com/pesos/grofer/pull/137) in [pesos/grofer](https://github.com/pesos/grofer)
+4. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
+5. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
