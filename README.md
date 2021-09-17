@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
-2. 💪 Opened PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
-3. 💪 Opened PR [#137](https://github.com/pesos/grofer/pull/137) in [pesos/grofer](https://github.com/pesos/grofer)
-4. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
-5. 🗣 Commented on [#134](https://github.com/pesos/grofer/issues/134) in [pesos/grofer](https://github.com/pesos/grofer)
+1. 🎉 Merged PR [#2](https://github.com/Samyak2/guntainer/pull/2) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+2. 💪 Opened PR [#2](https://github.com/Samyak2/guntainer/pull/2) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+3. 🎉 Merged PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+4. 💪 Opened PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+5. 💪 Opened PR [#137](https://github.com/pesos/grofer/pull/137) in [pesos/grofer](https://github.com/pesos/grofer)
 <!--END_SECTION:activity-->
