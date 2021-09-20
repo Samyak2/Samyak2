@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🎉 Merged PR [#2](https://github.com/Samyak2/guntainer/pull/2) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
-3. 💪 Opened PR [#2](https://github.com/Samyak2/guntainer/pull/2) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
-4. 🎉 Merged PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
-5. 💪 Opened PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+1. ❗️ Opened issue [#160](https://github.com/pesos/browser-history/issues/160) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. ❗️ Reopened issue [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🎉 Merged PR [#2](https://github.com/Samyak2/guntainer/pull/2) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+4. 💪 Opened PR [#2](https://github.com/Samyak2/guntainer/pull/2) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+5. 🎉 Merged PR [#1](https://github.com/Samyak2/guntainer/pull/1) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
 <!--END_SECTION:activity-->
