@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19897](https://github.com/numpy/numpy/issues/19897) in [numpy/numpy](https://github.com/numpy/numpy)
-2. 🗣 Commented on [#148](https://github.com/pesos/browser-history/issues/148) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. ❗️ Opened issue [#162](https://github.com/pesos/browser-history/issues/162) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❗️ Opened issue [#161](https://github.com/pesos/browser-history/issues/161) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. ❗️ Opened issue [#160](https://github.com/pesos/browser-history/issues/160) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#165](https://github.com/pesos/browser-history/issues/165) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. 🎉 Merged PR [#166](https://github.com/pesos/browser-history/pull/166) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. ❗️ Closed issue [#148](https://github.com/pesos/browser-history/issues/148) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 💪 Opened PR [#19905](https://github.com/numpy/numpy/pull/19905) in [numpy/numpy](https://github.com/numpy/numpy)
+5. ❗️ Opened issue [#19897](https://github.com/numpy/numpy/issues/19897) in [numpy/numpy](https://github.com/numpy/numpy)
 <!--END_SECTION:activity-->
