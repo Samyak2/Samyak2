@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#162](https://github.com/pesos/browser-history/issues/162) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. ❗️ Opened issue [#161](https://github.com/pesos/browser-history/issues/161) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. ❗️ Opened issue [#160](https://github.com/pesos/browser-history/issues/160) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❗️ Reopened issue [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🎉 Merged PR [#2](https://github.com/Samyak2/guntainer/pull/2) in [Samyak2/guntainer](https://github.com/Samyak2/guntainer)
+1. ❗️ Opened issue [#19897](https://github.com/numpy/numpy/issues/19897) in [numpy/numpy](https://github.com/numpy/numpy)
+2. 🗣 Commented on [#148](https://github.com/pesos/browser-history/issues/148) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. ❗️ Opened issue [#162](https://github.com/pesos/browser-history/issues/162) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. ❗️ Opened issue [#161](https://github.com/pesos/browser-history/issues/161) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. ❗️ Opened issue [#160](https://github.com/pesos/browser-history/issues/160) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
