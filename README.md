@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/pesos/grofer/issues/137) in [pesos/grofer](https://github.com/pesos/grofer)
-2. ❌ Closed PR [#137](https://github.com/pesos/grofer/pull/137) in [pesos/grofer](https://github.com/pesos/grofer)
-3. ❗️ Reopened issue [#127](https://github.com/pesos/browser-history/issues/127) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. 🎉 Merged PR [#165](https://github.com/pesos/browser-history/pull/165) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. ❗️ Closed issue [#127](https://github.com/pesos/browser-history/issues/127) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#138](https://github.com/pesos/grofer/pull/138) in [pesos/grofer](https://github.com/pesos/grofer)
+2. 🗣 Commented on [#137](https://github.com/pesos/grofer/issues/137) in [pesos/grofer](https://github.com/pesos/grofer)
+3. ❌ Closed PR [#137](https://github.com/pesos/grofer/pull/137) in [pesos/grofer](https://github.com/pesos/grofer)
+4. ❗️ Reopened issue [#127](https://github.com/pesos/browser-history/issues/127) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🎉 Merged PR [#165](https://github.com/pesos/browser-history/pull/165) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
