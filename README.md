@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🎉 Merged PR [#170](https://github.com/pesos/browser-history/pull/170) in [pesos/browser-history](https://github.com/pesos/browser-history)
-4. ❌ Closed PR [#173](https://github.com/pesos/browser-history/pull/173) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#173](https://github.com/pesos/browser-history/issues/173) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🗣 Commented on [#8](https://github.com/zazuum/xlsxgrep/issues/8) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
+2. 🗣 Commented on [#3](https://github.com/zazuum/xlsxgrep/issues/3) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
+3. ❗️ Closed issue [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🎉 Merged PR [#170](https://github.com/pesos/browser-history/pull/170) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
