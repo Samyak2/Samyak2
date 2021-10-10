@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/NaikAayush/orange-cloud3/pull/3) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
-2. 🗣 Commented on [#160](https://github.com/pesos/browser-history/issues/160) in [pesos/browser-history](https://github.com/pesos/browser-history)
-3. 🗣 Commented on [#8](https://github.com/zazuum/xlsxgrep/issues/8) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
-4. 🗣 Commented on [#3](https://github.com/zazuum/xlsxgrep/issues/3) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
-5. ❗️ Closed issue [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 🎉 Merged PR [#6](https://github.com/NaikAayush/orange-cloud3/pull/6) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
+2. 🎉 Merged PR [#5](https://github.com/NaikAayush/orange-cloud3/pull/5) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
+3. 💪 Opened PR [#6](https://github.com/NaikAayush/orange-cloud3/pull/6) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
+4. 💪 Opened PR [#5](https://github.com/NaikAayush/orange-cloud3/pull/5) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
+5. 💪 Opened PR [#3](https://github.com/NaikAayush/orange-cloud3/pull/3) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
 <!--END_SECTION:activity-->
