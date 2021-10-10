@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/pesos/browser-history/issues/160) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🗣 Commented on [#8](https://github.com/zazuum/xlsxgrep/issues/8) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
-3. 🗣 Commented on [#3](https://github.com/zazuum/xlsxgrep/issues/3) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
-4. ❗️ Closed issue [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
-5. 🗣 Commented on [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
+1. 💪 Opened PR [#3](https://github.com/NaikAayush/orange-cloud3/pull/3) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
+2. 🗣 Commented on [#160](https://github.com/pesos/browser-history/issues/160) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🗣 Commented on [#8](https://github.com/zazuum/xlsxgrep/issues/8) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
+4. 🗣 Commented on [#3](https://github.com/zazuum/xlsxgrep/issues/3) in [zazuum/xlsxgrep](https://github.com/zazuum/xlsxgrep)
+5. ❗️ Closed issue [#169](https://github.com/pesos/browser-history/issues/169) in [pesos/browser-history](https://github.com/pesos/browser-history)
 <!--END_SECTION:activity-->
