@@ -36,9 +36,9 @@ Maybe take a look at some of my repositories?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
-2. 🎉 Merged PR [#8](https://github.com/NaikAayush/orange-cloud3/pull/8) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
-3. 💪 Opened PR [#8](https://github.com/NaikAayush/orange-cloud3/pull/8) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
-4. 🎉 Merged PR [#7](https://github.com/NaikAayush/orange-cloud3/pull/7) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
-5. 💪 Opened PR [#7](https://github.com/NaikAayush/orange-cloud3/pull/7) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
+1. ❗️ Reopened issue [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
+2. ❗️ Closed issue [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
+3. 🎉 Merged PR [#174](https://github.com/pesos/browser-history/pull/174) in [pesos/browser-history](https://github.com/pesos/browser-history)
+4. 🗣 Commented on [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🎉 Merged PR [#8](https://github.com/NaikAayush/orange-cloud3/pull/8) in [NaikAayush/orange-cloud3](https://github.com/NaikAayush/orange-cloud3)
 <!--END_SECTION:activity-->
