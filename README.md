@@ -40,5 +40,5 @@ Maybe take a look at some of my repositories?
 2. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
 3. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
 4. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
-5. ❗️ Reopened issue [#22](https://github.com/pesos/browser-history/issues/22) in [pesos/browser-history](https://github.com/pesos/browser-history)
+5. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
 <!--END_SECTION:activity-->
