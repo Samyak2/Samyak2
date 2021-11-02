@@ -2,43 +2,31 @@
 
 [![Website](https://img.shields.io/website?label=samyaks.xyz&style=flat-square&url=https%3A%2F%2Fsamyaks.xyz)](https://samyaks.xyz)
 
-I'm Samyak. Currently studying in the Computer Science department of PES University.
+I'm Samyak. Currently studying Computer Science at PES University.
 
-Interested in Systems, Cloud, Deep Learning and anything that is fun and/or interesting!
+#### Projects that I help maintain:
 
-Maybe take a look at some of my repositories?
+- [browser-history](https://github.com/pesos/browser-history)
+- [grofer](https://github.com/pesos/grofer/)
+- [heiko](https://github.com/psiayn/heiko) (and [py-heiko](https://github.com/pesos/heiko))
 
----
+#### Other projects
 
-### Languages and Tools:
+I like working on new projects all the time, which also means older projects get abandoned unless there is outside interest. Some of these are course projects, others are more spontaneous.
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
-<img align="left" alt="Julia" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png" />
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
-<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />
-<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firefox/firefox.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
+Some of the projects I'm proud of:
+ - [gopy](https://github.com/Samyak2/gopy) - a Go "compiler" implemented in python
+ - [guntainer](https://github.com/Samyak2/guntainer) - a rootless container runtime
+ - [skip-list](https://github.com/Samyak2/skip-list) - C++ implementation of skip list data structures
+ - [par-a-graph](https://github.com/metonymic-smokey/par-a-graph) - parallel pagerank
+ - [spressolisp](https://github.com/psiayn/spressolisp) - a lisp interpreter in Rust
+ - [numpytorch](https://github.com/Samyak2/numpytorch) - neural network implementation in numpy with a PyTorch-like API
+ - [Neural-Network-Julia](https://github.com/Samyak2/Neural-Network-Julia) - with GPU training
+ - [SVDNN.jl](https://github.com/Samyak2/SVDNN.jl) - accelerating neural networks using SVD
+ - [spatialHashing](https://github.com/psiayn/spatialHashing) - spatial hashing collision detection in python
 
-<br/>
-
-### :zap: My GitHub stats
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyak2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
-2. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
-3. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
-4. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
-5. 🗣 Commented on [#54](https://github.com/meilisearch/tokenizer/issues/54) in [meilisearch/tokenizer](https://github.com/meilisearch/tokenizer)
-<!--END_SECTION:activity-->
+Some fun projects:
+ - [donut](https://github.com/Samyak2/donut) - rendering a donut in the terminal
+ - [potential-art](https://github.com/Samyak2/potential-art) - "art" in Julia and Luxor
+ - [nvim-config](https://github.com/Samyak2/nvim-config) - my neovim config
+ - [guine](https://github.com/Samyak2/guine) - a self-replicating program in Go
