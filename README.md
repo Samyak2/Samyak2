@@ -28,6 +28,7 @@ Some projects I'm proud of:
 
 Some fun projects:
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [donut](https://github.com/Samyak2/donut) - rendering a donut in the terminal
+ - <a href="#"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="Rust logo" width="15"></a> [toipe](https://github.com/Samyak2/toipe) - a typing test CLI app
  - <a href="#"><img src="https://user-images.githubusercontent.com/34161949/140472262-52741b2b-b2da-4c6b-9835-668d6ff50171.png" alt="Julia logo" width="15"></a> [potential-art](https://github.com/Samyak2/potential-art) - "art" in Julia and Luxor
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua logo" width="15"></a> [nvim-config](https://github.com/Samyak2/nvim-config) - my neovim config
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [guine](https://github.com/Samyak2/guine) - a self-replicating program in Go
