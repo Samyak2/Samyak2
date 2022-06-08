@@ -17,6 +17,7 @@ I like working on new projects all the time, which also means older projects get
 Some projects I'm proud of:
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="15"></a> [gopy](https://github.com/Samyak2/gopy) - a Go "compiler" implemented in python
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [guntainer](https://github.com/Samyak2/guntainer) - a rootless container runtime
+ - <a href="#"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="Rust logo" width="15"></a> [michie](https://github.com/mobusoperandi/michie) - An attribute macro that adds memoization to a function
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="15"></a> [skip-list](https://github.com/Samyak2/skip-list) - C++ implementation of skip list data structures
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [par-a-graph](https://github.com/metonymic-smokey/par-a-graph) - parallel pagerank
  - <a href="#"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="Rust logo" width="15"></a> [spressolisp](https://github.com/psiayn/spressolisp) - a lisp interpreter in Rust
