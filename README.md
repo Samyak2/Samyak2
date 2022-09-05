@@ -2,7 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=samyaks.xyz&style=flat-square&url=https%3A%2F%2Fsamyaks.xyz)](https://samyaks.xyz)
 
-I'm Samyak. Currently studying Computer Science at PES University.
+I'm Samyak.
+
+- I like programming languages/compilers and systems.
+- Current language of choice: <a href="#"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="Rust logo" width="15"></a> Rust
+- Software Engineer [@chaos-genius](https://github.com/chaos-genius/)
 
 #### Projects that I help maintain:
 
