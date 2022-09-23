@@ -31,7 +31,7 @@ Some projects I'm proud of:
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="15"></a> [spatialHashing](https://github.com/psiayn/spatialHashing) - spatial hashing collision detection in python
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [gosling](https://github.com/Samyak2/gosling/) - a terminal-based text-to-speech wrapper
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="15"></a> [likelang](https://github.com/psiayn/likelang/) - a dynamically typed, function-first language made at [langjam0002](https://github.com/langjam/jam0002/)
- - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="15"></a> [za-warudo](https://github.com/langjam/jam0003/issues/76) - a highly domain-specific language to procedurally generate 2D worlds. One of the winners at [langjam0003](https://youtu.be/g_dBJW8q7QA?t=479).
+ - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" width="15"></a> [za-warudo](https://github.com/langjam/jam0003/issues/76) - a highly domain-specific language to procedurally generate 2D worlds. One of the winners at [langjam0003](https://youtu.be/g_dBJW8q7QA?t=479)
 
 Some fun projects:
  - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [donut](https://github.com/Samyak2/donut) - rendering a donut in the terminal
