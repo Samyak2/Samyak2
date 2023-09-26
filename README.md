@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Website](https://img.shields.io/website?label=samyaks.xyz&style=flat-square&url=https%3A%2F%2Fsamyak.me)](https://samyak.me)
+[![Website](https://img.shields.io/website?label=samyak.me&style=flat-square&url=https%3A%2F%2Fsamyak.me)](https://samyak.me)
 
 I'm Samyak.
 
