@@ -6,7 +6,6 @@ I'm Samyak.
 
 - I like programming languages/compilers and systems.
 - Current language of choice: <a href="#"><img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" alt="Rust logo" width="15"></a> Rust
-- Software Engineer [@chaos-genius](https://github.com/chaos-genius/)
 
 #### Projects that I help maintain:
 
