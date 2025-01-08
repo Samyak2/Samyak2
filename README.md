@@ -10,8 +10,8 @@ I'm Samyak.
 #### Projects that I help maintain:
 
 - <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="15"></a> [browser-history](https://github.com/pesos/browser-history)
-- <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [grofer](https://github.com/pesos/grofer/)
-- <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [heiko](https://github.com/psiayn/heiko) (and <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="15"></a> [py-heiko](https://github.com/pesos/heiko))
+- [archived] <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [grofer](https://github.com/pesos/grofer/)
+- [archived] <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go lang logo" width="15"></a> [heiko](https://github.com/psiayn/heiko) (and <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="15"></a> [py-heiko](https://github.com/pesos/heiko))
 
 #### Other projects
 
